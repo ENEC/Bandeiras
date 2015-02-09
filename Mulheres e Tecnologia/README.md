@@ -60,6 +60,9 @@ https://www.facebook.com/meninasdigitaisSBC
 WIT - VIII Women in Information Technology  
 http://csbc2014.cic.unb.br/index.php/wit
 
+LEAN IN  
+http://leanin.org/
+
 
 REPORTAGENS
 -----------
@@ -81,6 +84,9 @@ http://www.techrepublic.com/article/diversity-stats-10-tech-companies-that-have-
 
 Mulheres ainda são poucas no mercado de computação  
 http://oglobo.globo.com/sociedade/tecnologia/mulheres-ainda-sao-poucas-no-mercado-de-computacao-12242530
+
+Facebook e LinkedIn se unem para dar oportunidades a mulheres na área da tecnologia  
+http://oglobo.globo.com/sociedade/tecnologia/facebook-linkedin-se-unem-para-dar-oportunidades-mulheres-na-area-da-tecnologia-15279988
 
 
 ESTADÃO
@@ -122,6 +128,9 @@ https://www.youtube.com/watch?v=ANGURJbM88M
 
 Diálogos: Meninas Digitais  
 https://www.youtube.com/watch?v=lKbjT07_gCI&index=23&list=UUUUU5zBnxg55vaXymuFJDPw
+
+MULHERES NA PROGRAMAÇÃO | papo com a Camila Achutti  
+https://www.youtube.com/watch?v=Me4S5Fb3_Vo
 
 BLOGS
 -----------
