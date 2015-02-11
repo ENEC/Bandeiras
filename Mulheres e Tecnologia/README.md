@@ -63,6 +63,9 @@ http://csbc2014.cic.unb.br/index.php/wit
 LEAN IN  
 http://leanin.org/
 
+Women Who Code
+https://www.womenwhocode.com/
+
 
 REPORTAGENS
 -----------
@@ -87,6 +90,12 @@ http://oglobo.globo.com/sociedade/tecnologia/mulheres-ainda-sao-poucas-no-mercad
 
 Facebook e LinkedIn se unem para dar oportunidades a mulheres na área da tecnologia  
 http://oglobo.globo.com/sociedade/tecnologia/facebook-linkedin-se-unem-para-dar-oportunidades-mulheres-na-area-da-tecnologia-15279988
+
+Lugar de menina é na computação
+http://www.unicamp.br/unicamp/ju/595/lugar-de-menina-e-na-computacao
+
+Tech’s Gender Gap Wasn’t Always So Bad. Here’s How It Got Worse
+http://www.wired.com/2014/11/code-documentary-gender-gap/
 
 
 ESTADÃO
@@ -146,3 +155,9 @@ https://medium.com/@pamelafox/coding-isnt-easy-but-it-is-learnable-f2dc7ec9a9da
 
 Por que precisamos conquistar a tecnologia  
 http://thinkolga.com/2014/08/06/por-que-precisamos-conquistar-a-tecnologia/
+
+PODCASTS
+-----------
+
+Série "Programadoras" | Grok Podcast
+http://www.grokpodcast.com/series/programadoras/
