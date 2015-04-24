@@ -97,6 +97,11 @@ http://www.unicamp.br/unicamp/ju/595/lugar-de-menina-e-na-computacao
 Tech’s Gender Gap Wasn’t Always So Bad. Here’s How It Got Worse
 http://www.wired.com/2014/11/code-documentary-gender-gap/
 
+[5 perguntas] Claudia Melo, da ThoughtWorks, conta como é ser mulher no mercado de tecnologia
+http://www.jornaldoempreendedor.com.br/empreendedorismo-na-web/novidades-pela-net/5-perguntas-claudia-melo-da-thoughtworks-conta-como-e-ser-mulher-no-mercado-de-tecnologia
+
+[5 perguntas] Luciana Fujii, engenheira de software, fala sobre o mercado de TI para as mulheres
+http://www.jornaldoempreendedor.com.br/empreendedorismo-na-web/novidades-pela-net/5-perguntas-luciana-fujii-engenheira-de-software-fala-sobre-o-mercado-de-ti-para-as-mulheres
 
 ESTADÃO
 -----------
